@@ -1,5 +1,5 @@
 {
-  "name": "socket.io",
+  "name": "vw-socket.io",
   "version": "1.4.8",
   "description": "node.js realtime framework server",
   "keywords": [
@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/socketio/socket.io"
+    "url": "git@github.com:Viscaweb/socket.io.git"
   },
   "scripts": {
     "test": "gulp test"
